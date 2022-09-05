@@ -1,0 +1,11 @@
+{
+  "emmet.optimizeStylesheetParsing": false,
+  "emmet.preferences": {
+  
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "javascriptreact"
+},
+
+}
